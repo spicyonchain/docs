@@ -4,7 +4,7 @@
 
 With **spicy**, dive into a revolutionary platform that transforms the way adult content is explored and monetized. Built on the cutting-edge principles of Web3, spicy offers a decentralized, blockchain-powered environment where users and creators can thrive in a token-based economy. 
 
-Imagine a world where transparency and censorship resistance are not just ideals but realities. spicy leverages the power of IPFS for secure content storage, ensuring that your data is both safe and accessible. Transactions are seamless and efficient, powered by our native $SPICY tokens, which facilitate a vibrant and dynamic marketplace.
+Imagine a world where transparency and censorship resistance are not just ideals but realities. spicy leverages the power of IPFS for secure content storage, ensuring that your data is both safe and accessible. Transactions are seamless and efficient, powered by AVAX.
 
 Unlike traditional platforms, spicy empowers creators and users alike, offering unparalleled control and ownership over their content and interactions. Engage with a community that values privacy and autonomy, where every transaction is recorded on the blockchain, providing an immutable and transparent ledger of activity.
 
@@ -72,8 +72,9 @@ Get started with spicy by setting up your account and connecting to the blockcha
 
 ### Engage with spicy
 
-1. Browse and subscribe to your favorite creators.
-2. Use $SPICY tokens for transactions and rewards.
+1. Subscribe to your favorite creators.
+2. Create content.
+3. Earn.
 
 ---
 
