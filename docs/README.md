@@ -78,6 +78,6 @@ Get started with spicy by setting up your account and connecting to the blockcha
 
 ---
 
-version: 0.0.1
+version: 0.0.2
 
 
